@@ -1,0 +1,148 @@
+# Python
+*.py linguist-language=Python
+
+# JavaScript
+*.js linguist-language=JavaScript
+
+# Java
+*.java linguist-language=Java
+
+# C++
+*.cpp linguist-language=C++
+
+# C#
+*.cs linguist-language=Csharp
+
+# Ruby
+*.rb linguist-language=Ruby
+
+# PHP
+*.php linguist-language=PHP
+
+# Swift
+*.swift linguist-language=Swift
+
+# Go
+*.go linguist-language=Go
+
+# Rust
+*.rs linguist-language=Rust
+
+# TypeScript
+*.ts linguist-language=TypeScript
+
+# Kotlin
+*.kt linguist-language=Kotlin
+
+# MATLAB
+*.m linguist-language=MATLAB
+
+# R
+*.r linguist-language=R
+
+# Perl
+*.pl linguist-language=Perl
+
+# Lua
+*.lua linguist-language=Lua
+
+# Objective-C
+*.m linguist-language=Objective-C
+
+# Scala
+*.scala linguist-language=Scala
+
+# Haskell
+*.hs linguist-language=Haskell
+
+# Groovy
+*.groovy linguist-language=Groovy
+
+# Shell
+*.sh linguist-language=Shell
+
+# HTML
+*.html linguist-language=HTML
+
+# CSS
+*.css linguist-language=CSS
+
+# SQL
+*.sql linguist-language=SQL
+
+# PowerShell
+*.ps1 linguist-language=PowerShell
+
+# Dart
+*.dart linguist-language=Dart
+
+# Vue.js
+*.vue linguist-language=Vue
+
+# Objective-C++
+*.mm linguist-language=Objective-C++
+
+# C
+*.c linguist-language=C
+
+# TypeScript
+*.tsx linguist-language=TypeScript
+
+# Perl 6
+*.p6 linguist-language=Perl6
+
+# Groovy Server Pages
+*.gsp linguist-language=Groovy
+
+# Groovy
+*.gradle linguist-language=Groovy
+
+# Kotlin
+*.kts linguist-language=Kotlin
+
+# Shell
+*.bash linguist-language=Shell
+
+# Swift
+*.swift linguist-language=Swift
+
+# YAML
+*.yml linguist-language=YAML
+
+# JSON
+*.json linguist-language=JSON
+
+# XML
+*.xml linguist-language=XML
+
+# Rust
+*.toml linguist-language=TOML
+
+# Dockerfile
+Dockerfile linguist-language=Dockerfile
+
+# Ruby
+Gemfile linguist-language=Ruby
+Rakefile linguist-language=Ruby
+
+# JavaScript
+*.jsx linguist-language=JavaScript
+*.json linguist-language=JSON
+
+# TypeScript
+*.tsx linguist-language=TypeScript
+
+# CoffeeScript
+*.coffee linguist-language=CoffeeScript
+
+# Python
+*.ipynb linguist-language=Python
+
+# Swift
+*.playground linguist-language=Swift
+
+# Shell
+*.fish linguist-language=Shell
+
+# Markdown
+*.md linguist-language=Markdown
